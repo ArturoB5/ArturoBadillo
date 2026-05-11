@@ -1,7 +1,7 @@
 <h1 align="center">Arturo David Badillo Arrieta</h1>
 
 <p align="center">
-  <strong>Ingeniero de Software | Desarrollador Full Stack | Ciberseguridad en formación</strong>
+  <strong>Ingeniero de Software | Desarrollador Full Stack | Master de Ciberseguridad en formación</strong>
 </p>
 
 <p align="center">
@@ -45,16 +45,23 @@ Actualmente estudio Ingeniería de Software y fortalezco mi perfil con formació
 
 ### Proyecto destacado
 
-**Portafolio profesional interactivo**  
-Una aplicación moderna creada con Next.js, TypeScript y Supabase para administrar y presentar mi perfil profesional, proyectos, experiencia y certificaciones.
+### Proyectos
+
+| Proyecto | Descripción | Enfoque |
+|---|---|---|
+| **Malevolens** | Aplicación web con identidad visual moderna y funcionalidades orientadas a una experiencia digital completa. | Full Stack / UI |
+| **Reppost** | Plataforma enfocada en gestión y publicación de contenido, integrando lógica de negocio e interfaz clara. | Web / Contenido |
+| **CyberScan** | Herramienta relacionada con análisis técnico y ciberseguridad, pensada para exploración, diagnóstico y aprendizaje. | Ciberseguridad |
+| **Plataforma UEC** | Sistema institucional para organizar información, procesos y administración interna. | Sistema web |
+| **Portafolio profesional** | Portafolio editable construido con Next.js, TypeScript y Supabase para presentar mi perfil y trayectoria. | Next.js / Supabase |
 
 ---
 
 ### Conecta conmigo
 
-- LinkedIn: `tu-link`
-- Portafolio: `tu-link`
-- Email: `tu-correo`
+- LinkedIn: `[tu-link](https://ec.linkedin.com/in/arturo-b-146815130)`
+- Portafolio: `[tu-link](https://portafolio-arturobadillo.vercel.app/)`
+- Email: `arturobadillo18@gmail.com`
 
 ---
 
