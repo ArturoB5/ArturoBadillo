@@ -314,7 +314,7 @@ Si quieres apoyarme creando nuevos proyectos:
 </p>
 
 <p align="center">
-  <img src="./assets/firma.png" alt="Firma Arturo Badillo" width="220" />
+  <img src="./assets/firmaB.png" alt="Firma Arturo Badillo" width="220" />
 </p>
 
 <p align="center">
