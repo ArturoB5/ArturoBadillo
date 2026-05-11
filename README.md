@@ -160,12 +160,11 @@ Ciberseguridad · Ethical Hacking · Redes · Análisis de requerimientos
 ### Roadmap actual
 
 - [x] Portafolio profesional interactivo
-- [x] Integración con Supabase
 - [x] Proyectos web personales y freelance
 - [x] Construcción de identidad tecnológica con Abalon Labs
 - [X] Profundizar en seguridad ofensiva y defensiva
 - [X] Publicar más proyectos open source
-- [ ] Consolidar productos digitales propios
+- [X] Consolidar productos digitales propios
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2f855a,100:0f766e" />
