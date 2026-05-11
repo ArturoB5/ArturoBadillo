@@ -16,6 +16,13 @@
 </p>
 
 <p align="center">
+  <a href="https://portafolio-arturobadillo.vercel.app/">Portafolio</a> ·
+  <a href="https://ec.linkedin.com/in/arturo-b-146815130">LinkedIn</a> ·
+  <a href="mailto:arturobadillo18@gmail.com">Email</a> ·
+  <a href="https://www.paypal.com/paypalme/arararcadabra">Apoyar proyectos</a>
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=Desarrollador+Full+Stack;Ingeniero+de+Software;Ciberseguridad+en+formacion;Fundador+de+Abalon+Labs;Construyendo+soluciones+digitales+con+proposito" alt="Typing SVG" />
 </p>
 
@@ -24,6 +31,14 @@
 Soy desarrollador Full Stack con enfoque en crear soluciones digitales completas: interfaces claras, backend sólido, bases de datos bien estructuradas y experiencias que generen valor real.
 
 Actualmente soy Ingeniero de Software y fortalezco mi perfil con formación en una maestría en Ciberseguridad. Me gusta construir aplicaciones web modernas, resolver problemas técnicos y convertir ideas en productos funcionales.
+
+---
+
+### Perfil técnico en una línea
+
+```text
+Full Stack Developer · Software Engineering · Cybersecurity · Cloud Services · Product Thinking
+```
 
 ---
 
@@ -36,6 +51,9 @@ Actualmente soy Ingeniero de Software y fortalezco mi perfil con formación en u
 - Integro una visión creciente de ciberseguridad en la forma en que diseño y desarrollo software.
 
 ---
+
+<details>
+  <summary><strong>Ver stack técnico completo</strong></summary>
 
 ### Habilidades técnicas
 
@@ -98,18 +116,21 @@ APIs REST · Autenticación · Supabase Storage · Soporte TIC · Automatizació
 Ciberseguridad · Ethical Hacking · Redes · Análisis de requerimientos
 ```
 
+</details>
+
 ---
 
 ### En qué estoy trabajando
 
-- Desarrollo de aplicaciones web Full Stack
-- Proyectos personales y freelance
-- Integración con servicios en la nube, autenticación y almacenamiento
-- Mejora continua en backend, seguridad y arquitectura
+- Desarrollo de aplicaciones web Full Stack.
+- Proyectos personales y freelance.
+- Integración con servicios en la nube, autenticación y almacenamiento.
+- Mejora continua en backend, seguridad y arquitectura.
 
 ---
 
 ### Actualmente estoy fortaleciendo
+
 - Arquitectura backend con Java y Spring Boot.
 - Desarrollo Full Stack con Next.js, React, Supabase, entre otros.
 - Seguridad web, análisis de vulnerabilidades y buenas prácticas defensivas.
@@ -118,15 +139,76 @@ Ciberseguridad · Ethical Hacking · Redes · Análisis de requerimientos
 
 ---
 
+### Roadmap actual
+
+- [x] Portafolio profesional interactivo
+- [x] Integración con Supabase
+- [x] Proyectos web personales y freelance
+- [x] Construcción de identidad tecnológica con Abalon Labs
+- [ ] Profundizar en seguridad ofensiva y defensiva
+- [ ] Publicar más proyectos open source
+- [ ] Consolidar productos digitales propios
+
+---
+
+### Cómo pienso al construir software
+
+```text
+Problema real
+   ↓
+Requerimientos claros
+   ↓
+Diseño de solución
+   ↓
+Frontend usable + backend sólido
+   ↓
+Datos organizados
+   ↓
+Seguridad, despliegue y mejora continua
+```
+
+---
+
 ### Proyectos destacados
 
-| Proyecto | Descripción | Enfoque |
-|---|---|---|
-| **Malevolens** | Aplicación web con identidad visual moderna y funcionalidades orientadas a una experiencia digital completa. | Full Stack / UI |
-| **Reppost** | Plataforma enfocada en gestión y publicación de contenido, integrando lógica de negocio e interfaz clara. | Web / Red social |
-| **CyberScan** | Herramienta relacionada con análisis técnico y ciberseguridad, pensada para exploración, diagnóstico y aprendizaje. | Ciberseguridad |
-| **Plataforma UEC** | Sistema institucional para organizar información, procesos y administración interna. | Sistema web |
-| **Portafolio profesional** | Portafolio editable construido con Next.js, TypeScript y Supabase para presentar mi perfil y trayectoria. | Next.js / Supabase |
+<table>
+  <tr>
+    <td width="50%">
+      <h3>Malevolens</h3>
+      <p>Aplicación web con identidad visual moderna y funcionalidades orientadas a una experiencia digital completa.</p>
+      <p><strong>Enfoque:</strong> Full Stack / UI</p>
+    </td>
+    <td width="50%">
+      <h3>Reppost</h3>
+      <p>Plataforma enfocada en gestión y publicación de contenido, integrando lógica de negocio e interfaz clara.</p>
+      <p><strong>Enfoque:</strong> Web / Red social</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>CyberScan</h3>
+      <p>Herramienta relacionada con análisis técnico y ciberseguridad, pensada para exploración, diagnóstico y aprendizaje.</p>
+      <p><strong>Enfoque:</strong> Ciberseguridad</p>
+    </td>
+    <td width="50%">
+      <h3>Plataforma UEC</h3>
+      <p>Sistema institucional para organizar información, procesos y administración interna.</p>
+      <p><strong>Enfoque:</strong> Sistema web</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>Portafolio profesional</h3>
+      <p>Portafolio editable construido con Next.js, TypeScript y Supabase para presentar mi perfil y trayectoria.</p>
+      <p><strong>Enfoque:</strong> Next.js / Supabase</p>
+    </td>
+    <td width="50%">
+      <h3>Abalon Labs</h3>
+      <p>Marca personal enfocada en software, automatización y productos digitales con identidad propia.</p>
+      <p><strong>Enfoque:</strong> Producto / Marca tech</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -138,6 +220,25 @@ Ciberseguridad · Ethical Hacking · Redes · Análisis de requerimientos
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ArturoB5&theme=tokyonight&hide_border=true" alt="Racha de contribuciones de Arturo Badillo" />
+</p>
+
+---
+
+### Actividad reciente
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+### Contribuciones
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArturoB5/ArturoB5/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArturoB5/ArturoB5/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/ArturoB5/ArturoB5/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ---
@@ -154,11 +255,11 @@ Mi objetivo es convertir ideas en productos funcionales, visualmente cuidados y 
 
 - LinkedIn: [Arturo Badillo](https://ec.linkedin.com/in/arturo-b-146815130)
 - Portafolio: [portafolio-arturobadillo.vercel.app](https://portafolio-arturobadillo.vercel.app/)
-- Email: arturobadillo18@gmail.com
+- Email: [arturobadillo18@gmail.com](mailto:arturobadillo18@gmail.com)
 
 ---
 
-## Invitame un café
+## Invítame un café
 
 Si quieres apoyarme creando nuevos proyectos:
 
@@ -169,5 +270,6 @@ Si quieres apoyarme creando nuevos proyectos:
 ---
 
 <p align="center">
-Construyendo software con intención, orden y mejora continua en cada commit.
+  <strong>Construyendo software con intención, orden y mejora continua en cada commit.</strong>
 </p>
+
