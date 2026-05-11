@@ -1,23 +1,41 @@
+<p align="center">
+  <img src="./assets/BannerAL.png" alt="Banner de Arturo Badillo" />
+</p>
+
 <h1 align="center">Arturo David Badillo Arrieta</h1>
 
 <p align="center">
-  <strong>Ingeniero de Software | Desarrollador Full Stack | Master de Ciberseguridad en formación | Fundador de Abalon Labs</strong>
+  <strong>Ingeniero de Software | Desarrollador Full Stack | Máster de Ciberseguridad en formación | Fundador de Abalon Labs</strong>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Full%20Stack-Developer-2f855a?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Software-Engineering-1f2937?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Cybersecurity-Learning-0f766e?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Abalon%20Labs-Founder-111827?style=for-the-badge" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=Desarrollador+Full+Stack;Ingeniero+de+Software;Ciberseguridad+en+formacion;Fundador+de+Abalon+Labs;Construyendo+soluciones+digitales+con+proposito" alt="Typing SVG" />
 </p>
 
 ---
 
 Soy desarrollador Full Stack con enfoque en crear soluciones digitales completas: interfaces claras, backend sólido, bases de datos bien estructuradas y experiencias que generen valor real.
 
-Actualmente estudio Ingeniería de Software y fortalezco mi perfil con formación en Ciberseguridad. Me gusta construir aplicaciones web modernas, resolver problemas técnicos y convertir ideas en productos funcionales.
+Actualmente soy Ingeniero de Software y fortalezco mi perfil con formación en una maestría en Ciberseguridad. Me gusta construir aplicaciones web modernas, resolver problemas técnicos y convertir ideas en productos funcionales.
 
 ---
 
+### Mi enfoque como desarrollador
+
+- Construyo soluciones completas, no solo pantallas aisladas.
+- Combino frontend, backend, bases de datos y criterio de producto.
+- Me interesa que cada proyecto tenga una base técnica clara, mantenible y escalable.
+- Valoro el orden, la documentación, la experiencia de usuario y la mejora continua.
+- Integro una visión creciente de ciberseguridad en la forma en que diseño y desarrollo software.
+
+---
 
 ### Habilidades técnicas
 
@@ -86,8 +104,17 @@ Ciberseguridad · Ethical Hacking · Redes · Análisis de requerimientos
 
 - Desarrollo de aplicaciones web Full Stack
 - Proyectos personales y freelance
-- Integración de Supabase, autenticación y almacenamiento
+- Integración con servicios en la nube, autenticación y almacenamiento
 - Mejora continua en backend, seguridad y arquitectura
+
+---
+
+### Actualmente estoy fortaleciendo
+- Arquitectura backend con Java y Spring Boot.
+- Desarrollo Full Stack con Next.js, React, Supabase, entre otros.
+- Seguridad web, análisis de vulnerabilidades y buenas prácticas defensivas.
+- Diseño de productos digitales bajo la marca Abalon Labs.
+- Despliegue, mantenimiento y mejora continua de aplicaciones web.
 
 ---
 
@@ -96,10 +123,31 @@ Ciberseguridad · Ethical Hacking · Redes · Análisis de requerimientos
 | Proyecto | Descripción | Enfoque |
 |---|---|---|
 | **Malevolens** | Aplicación web con identidad visual moderna y funcionalidades orientadas a una experiencia digital completa. | Full Stack / UI |
-| **Reppost** | Plataforma enfocada en gestión y publicación de contenido, integrando lógica de negocio e interfaz clara. | Web / Contenido |
+| **Reppost** | Plataforma enfocada en gestión y publicación de contenido, integrando lógica de negocio e interfaz clara. | Web / Red social |
 | **CyberScan** | Herramienta relacionada con análisis técnico y ciberseguridad, pensada para exploración, diagnóstico y aprendizaje. | Ciberseguridad |
 | **Plataforma UEC** | Sistema institucional para organizar información, procesos y administración interna. | Sistema web |
 | **Portafolio profesional** | Portafolio editable construido con Next.js, TypeScript y Supabase para presentar mi perfil y trayectoria. | Next.js / Supabase |
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArturoB5&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoB5&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ArturoB5&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### Abalon Labs
+
+Estoy construyendo **Abalon Labs** como una marca personal enfocada en desarrollo de software, soluciones digitales, automatización y proyectos tecnológicos con identidad propia.
+
+Mi objetivo es convertir ideas en productos funcionales, visualmente cuidados y técnicamente sólidos.
 
 ---
 
@@ -122,5 +170,5 @@ Si quieres apoyarme creando nuevos proyectos:
 ---
 
 <p align="center">
-Construyendo software con intención, orden y mejora continua.
+Construyendo software con intención, orden y mejora continua en cada commit.
 </p>
