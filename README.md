@@ -16,6 +16,10 @@
 </p>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ArturoB5&label=Visitas%20al%20perfil&color=0f766e&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
   <a href="https://portafolio-arturobadillo.vercel.app/">Portafolio</a> ·
   <a href="https://ec.linkedin.com/in/arturo-b-146815130">LinkedIn</a> ·
   <a href="mailto:arturobadillo18@gmail.com">Email</a> ·
@@ -26,13 +30,17 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&center=true&vCenter=true&width=850&lines=Desarrollador+Full+Stack;Ingeniero+de+Software;Ciberseguridad+en+formacion;Fundador+de+Abalon+Labs;Construyendo+soluciones+digitales+con+proposito" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2f855a,100:0f766e" />
+</p>
 
-Soy desarrollador Full Stack con enfoque en crear soluciones digitales completas: interfaces claras, backend sólido, bases de datos bien estructuradas y experiencias que generen valor real.
+Soy desarrollador Full Stack e ingeniero de software con enfoque en crear soluciones digitales completas: interfaces claras, backend sólido, bases de datos bien estructuradas y experiencias que generen valor real.
 
-Actualmente soy Ingeniero de Software y fortalezco mi perfil con formación en una maestría en Ciberseguridad. Me gusta construir aplicaciones web modernas, resolver problemas técnicos y convertir ideas en productos funcionales.
+Actualmente fortalezco mi perfil académico cursando una maestría en Ciberseguridad. Me gusta construir aplicaciones web modernas, resolver problemas técnicos y convertir ideas en productos funcionales.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2f855a,100:0f766e" />
+</p>
 
 ### Perfil técnico en una línea
 
@@ -40,7 +48,9 @@ Actualmente soy Ingeniero de Software y fortalezco mi perfil con formación en u
 Full Stack Developer · Software Engineering · Cybersecurity · Cloud Services · Product Thinking
 ```
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2f855a,100:0f766e" />
+</p>
 
 ### Mi enfoque como desarrollador
 
@@ -50,7 +60,9 @@ Full Stack Developer · Software Engineering · Cybersecurity · Cloud Services 
 - Valoro el orden, la documentación, la experiencia de usuario y la mejora continua.
 - Integro una visión creciente de ciberseguridad en la forma en que diseño y desarrollo software.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2f855a,100:0f766e" />
+</p>
 
 <details>
   <summary><strong>Ver stack técnico completo</strong></summary>
@@ -118,7 +130,9 @@ Ciberseguridad · Ethical Hacking · Redes · Análisis de requerimientos
 
 </details>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2f855a,100:0f766e" />
+</p>
 
 ### En qué estoy trabajando
 
@@ -127,7 +141,9 @@ Ciberseguridad · Ethical Hacking · Redes · Análisis de requerimientos
 - Integración con servicios en la nube, autenticación y almacenamiento.
 - Mejora continua en backend, seguridad y arquitectura.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2f855a,100:0f766e" />
+</p>
 
 ### Actualmente estoy fortaleciendo
 
@@ -137,7 +153,9 @@ Ciberseguridad · Ethical Hacking · Redes · Análisis de requerimientos
 - Diseño de productos digitales bajo la marca Abalon Labs.
 - Despliegue, mantenimiento y mejora continua de aplicaciones web.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2f855a,100:0f766e" />
+</p>
 
 ### Roadmap actual
 
@@ -145,11 +163,13 @@ Ciberseguridad · Ethical Hacking · Redes · Análisis de requerimientos
 - [x] Integración con Supabase
 - [x] Proyectos web personales y freelance
 - [x] Construcción de identidad tecnológica con Abalon Labs
-- [ ] Profundizar en seguridad ofensiva y defensiva
-- [ ] Publicar más proyectos open source
+- [X] Profundizar en seguridad ofensiva y defensiva
+- [X] Publicar más proyectos open source
 - [ ] Consolidar productos digitales propios
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2f855a,100:0f766e" />
+</p>
 
 ### Cómo pienso al construir software
 
@@ -167,7 +187,9 @@ Datos organizados
 Seguridad, despliegue y mejora continua
 ```
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2f855a,100:0f766e" />
+</p>
 
 ### Proyectos destacados
 
@@ -210,7 +232,9 @@ Seguridad, despliegue y mejora continua
   </tr>
 </table>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2f855a,100:0f766e" />
+</p>
 
 ### GitHub Stats
 
@@ -222,14 +246,18 @@ Seguridad, despliegue y mejora continua
   <img src="https://streak-stats.demolab.com?user=ArturoB5&theme=tokyonight&hide_border=true" alt="Racha de contribuciones de Arturo Badillo" />
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2f855a,100:0f766e" />
+</p>
 
 ### Actividad reciente
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2f855a,100:0f766e" />
+</p>
 
 ### Contribuciones
 
@@ -241,7 +269,9 @@ Seguridad, despliegue y mejora continua
   </picture>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2f855a,100:0f766e" />
+</p>
 
 ### Abalon Labs
 
@@ -249,15 +279,27 @@ Estoy construyendo **Abalon Labs** como una marca personal enfocada en desarroll
 
 Mi objetivo es convertir ideas en productos funcionales, visualmente cuidados y técnicamente sólidos.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2f855a,100:0f766e" />
+</p>
 
 ### Conecta conmigo
 
-- LinkedIn: [Arturo Badillo](https://ec.linkedin.com/in/arturo-b-146815130)
-- Portafolio: [portafolio-arturobadillo.vercel.app](https://portafolio-arturobadillo.vercel.app/)
-- Email: [arturobadillo18@gmail.com](mailto:arturobadillo18@gmail.com)
+<p align="center">
+  <a href="https://ec.linkedin.com/in/arturo-b-146815130">
+    <img src="https://img.shields.io/badge/LinkedIn-Arturo%20Badillo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://portafolio-arturobadillo.vercel.app/">
+    <img src="https://img.shields.io/badge/Portafolio-Web-2f855a?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:arturobadillo18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2f855a,100:0f766e" />
+</p>
 
 ## Invítame un café
 
@@ -267,9 +309,14 @@ Si quieres apoyarme creando nuevos proyectos:
   <img src="https://img.shields.io/badge/Invitame%20un%20cafe-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Invitame un cafe">
 </a>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2f855a,100:0f766e" />
+</p>
+
+<p align="center">
+  <img src="./assets/firma.png" alt="Firma Arturo Badillo" width="220" />
+</p>
 
 <p align="center">
   <strong>Construyendo software con intención, orden y mejora continua en cada commit.</strong>
 </p>
-
