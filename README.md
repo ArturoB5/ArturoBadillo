@@ -118,7 +118,7 @@ Ciberseguridad · Ethical Hacking · Redes · Análisis de requerimientos
 
 ---
 
-### Proyecto destacado
+### Proyectos destacados
 
 | Proyecto | Descripción | Enfoque |
 |---|---|---|
@@ -129,16 +129,19 @@ Ciberseguridad · Ethical Hacking · Redes · Análisis de requerimientos
 | **Portafolio profesional** | Portafolio editable construido con Next.js, TypeScript y Supabase para presentar mi perfil y trayectoria. | Next.js / Supabase |
 
 ---
-
+https://github-readme-stats.vercel.app/api?username=ArturoB5&show_icons=true&theme=tokyonight&hide_border=true
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ArturoB5&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoB5&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ArturoB5&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats de Arturo Badillo" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ArturoB5&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=ArturoB5&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más usados de Arturo Badillo" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ArturoB5&theme=tokyonight&hide_border=true" alt="Racha de contribuciones de Arturo Badillo" />
 </p>
 
 ---
