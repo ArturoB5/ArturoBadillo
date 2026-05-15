@@ -252,6 +252,7 @@ Seguridad, despliegue y mejora continua
 ### Actividad reciente
 
 <!--START_SECTION:activity-->
+1. ❗ Opened issue [#1](https://github.com/ArturoB5/ArturoB5/issues/1) in [ArturoB5/ArturoB5](https://github.com/ArturoB5/ArturoB5)
 <!--END_SECTION:activity-->
 
 <p align="center">
