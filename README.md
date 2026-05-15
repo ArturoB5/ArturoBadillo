@@ -235,20 +235,6 @@ Seguridad, despliegue y mejora continua
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2f855a,100:0f766e" />
 </p>
 
-### GitHub Stats
-
-<p align="center">
-  <img src="https://ghstats.dev/api/card?username=ArturoB5&theme=github_dark" alt="GitHub stats de Arturo Badillo" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ArturoB5&theme=tokyonight&hide_border=true" alt="Racha de contribuciones de Arturo Badillo" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2f855a,100:0f766e" />
-</p>
-
 ### Actividad en GitHub
 
 <p align="center">
