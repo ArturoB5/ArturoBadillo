@@ -249,14 +249,22 @@ Seguridad, despliegue y mejora continua
   <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2f855a,100:0f766e" />
 </p>
 
-### Actividad reciente
-
-<!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/ArturoB5/ArturoB5/issues/1) in [ArturoB5/ArturoB5](https://github.com/ArturoB5/ArturoB5)
-<!--END_SECTION:activity-->
+### Actividad en GitHub
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2f855a,100:0f766e" />
+  <img src="https://ghstats.dev/api/card?username=ArturoB5&theme=github_dark" alt="GitHub stats de Arturo Badillo" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ArturoB5&theme=tokyonight&hide_border=true" alt="Racha de contribuciones de Arturo Badillo" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ArturoB5/ArturoB5/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ArturoB5/ArturoB5/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/ArturoB5/ArturoB5/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ### Contribuciones
